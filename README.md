@@ -23,9 +23,7 @@ All tools and demonstrations are for **educational and research purposes only**.
 - Applying MITRE ATT&CK techniques (e.g., T1056.001, T1041)
 
 **Demo Videos:**  
-▶️ [Video 1: Keylogger Functionality & Data Capture](https://your-video-link-1.com)  
-▶️ [Video 2: C2 Communication & Data Exfiltration](https://your-video-link-2.com)  
-▶️ [Video 3: Defensive Detection & Analysis](https://your-video-link-3.com)
+▶️ [Video 1: Keylogger Functionality & Data Capture](https://your-video-link-1.com) 
 
 ## 🛠️ Technical Skills Demonstrated
 - **Python Development**: Custom tool creation, socket programming, data encryption
