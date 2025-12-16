@@ -25,9 +25,6 @@ All tools and demonstrations are for **educational and research purposes only**.
 **Demo Videos:**  
 ▶️ https://drive.google.com/drive/folders/1bHMKyRUGJOhI49PEYo6WDAgQy_iUW7oO?usp=drive_link
 
-Code Explanation
-
-https://drive.google.com/file/d/1Hd52kkoRvajRqguFrhfxKuRe7WTdUExQ/view?usp=drive_link
 
 ## 🛠️ Technical Skills Demonstrated
 - **Python Development**: Custom tool creation, socket programming, data encryption
