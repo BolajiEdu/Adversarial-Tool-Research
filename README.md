@@ -5,7 +5,7 @@ Go to task manager, search for the file and end task when you done.
 
 ## About This Repository
 This repository contains educational security research projects and proof-of-concept tools developed in controlled, isolated lab environments. The purpose is to **understand adversary techniques from a defender's perspective** and improve detection capabilities through hands-on exploration.
-
+[Slide 4_3 - 5.pdf](https://github.com/user-attachments/files/24188212/Slide.4_3.-.5.pdf)
 ⚠️ **Legal & Ethical Notice:**  
 All tools and demonstrations are for **educational and research purposes only**. They were developed and tested in authorized, isolated virtual environments. Unauthorized use against systems you do not own or have explicit permission to test is illegal and unethical.
 
